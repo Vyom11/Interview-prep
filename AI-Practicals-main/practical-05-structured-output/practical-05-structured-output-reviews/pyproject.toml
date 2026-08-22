@@ -1,0 +1,5 @@
+[project]
+name = "practical-05-structured-output-tool-calling"
+version = "1.0.0"
+description = "Structured review extraction using Amazon Bedrock Nova Lite"
+requires-python = ">=3.10"

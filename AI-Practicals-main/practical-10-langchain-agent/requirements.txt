@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+boto3
+botocore
+python-dotenv
+langchain
+langchain-community
+langchain-aws
+opensearch-py
+requests-aws4auth
+pypdf
+tiktoken
+requests

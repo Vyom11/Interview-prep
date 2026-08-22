@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-postgres
+langchain-aws
+psycopg2-binary
+sqlalchemy
+boto3
+opensearch-py
+python-dotenv
+faker
+pandas
+requests-aws4auth

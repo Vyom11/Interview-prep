@@ -1,0 +1,9 @@
+boto3
+langchain
+langchain-aws
+langchain-text-splitters
+opensearch-py
+requests-aws4auth
+python-dotenv
+pandas
+matplotlib

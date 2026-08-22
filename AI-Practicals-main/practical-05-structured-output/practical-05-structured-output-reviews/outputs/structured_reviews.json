@@ -1,0 +1,28 @@
+[
+    {
+        "review_id": 1,
+        "sentiment": "positive",
+        "key_topics": [
+            "battery",
+            "gaming performance"
+        ],
+        "rating_estimate": 5
+    },
+    {
+        "review_id": 2,
+        "sentiment": "negative",
+        "key_topics": [
+            "heat",
+            "camera quality"
+        ],
+        "rating_estimate": 2
+    },
+    {
+        "review_id": 3,
+        "sentiment": "neutral",
+        "key_topics": [
+            "price range"
+        ],
+        "rating_estimate": 3
+    }
+]

@@ -1,0 +1,5 @@
+crewai
+langchain-aws
+boto3
+python-dotenv
+litellm

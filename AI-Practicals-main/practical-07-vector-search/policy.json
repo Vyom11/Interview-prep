@@ -1,0 +1,27 @@
+[
+  {
+    "Rules": [
+      {
+        "ResourceType": "collection",
+        "Resource": [
+          "collection/vector-search-demo"
+        ],
+        "Permission": [
+          "aoss:*"
+        ]
+      },
+      {
+        "ResourceType": "index",
+        "Resource": [
+          "index/vector-search-demo/*"
+        ],
+        "Permission": [
+          "aoss:*"
+        ]
+      }
+    ],
+    "Principal": [
+      "arn:aws:iam::336359748382:user/practial-3-bedrock"
+    ]
+  }
+]
